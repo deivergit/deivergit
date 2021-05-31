@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi, I'm Deiver! 😁😜😉
 
-<!--
-**deivergit/deivergit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front End Web Developer who is passionate about Web Applications and Dinamic WebSites, also i like to exchange experiencie and work events with other programmers. Currently i'm working as freelance.
 
-Here are some ideas to get you started:
+## My skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS (less and Sass)
+- Javascript
+- Node.JS
+- PHP
+- Laravel
+- MySQL
+
+## Let's see my repositories ↓ ↓ ↓ ↓
