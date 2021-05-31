@@ -12,4 +12,6 @@ I'm a Front End Web Developer who is passionate about Web Applications and Dinam
 - Laravel
 - MySQL
 
+icono-arg-abrigo
+
 ## Let's see my repositories ↓ ↓ ↓ ↓
