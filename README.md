@@ -5,9 +5,8 @@ I'm a Front End Web Developer who is passionate about Web Applications and Dinam
 ## My skills
 
 - HTML.
-- CSS (Also i know less and Sass)
+- CSS.
+- SASS
 - Javascript.
-- Node.JS.
 - PHP.
-- Laravel.
 - MySQL.
